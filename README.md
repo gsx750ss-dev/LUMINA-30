@@ -65,3 +65,56 @@ These documents are published and preserved via Notion as immutable public recor
 Released into the public domain (CC0).  
 No author. No owner.
 
+---
+
+## Japanese Reference（補助参照）
+
+本セクションは、日本語話者による理解補助を目的とした
+**非正本・非規範的な参照用説明**である。
+
+本リポジトリに含まれる文書は、
+LUMINA-30 に関連する補助的参照資料であり、
+
+- 実装仕様
+- 技術設計
+- 政策提言
+- 最適化戦略
+
+を提示するものではない。
+
+これらの資料は、
+**再帰的自己再構築が不可逆領域に入る前段階において、  
+制度的・倫理的検討のための参照点を提供することのみ**
+を目的としている。
+
+本日本語セクションは、
+英語本文の内容を修正・拡張・正当化するものではなく、
+補助的理解のためにのみ提供される。
+
+---
+
+## Search Keywords / 検索用キーワード
+
+**English**
+- recursive self-improvement
+- recursive self-modification
+- irreversible boundary
+- human final authority
+- AI ethics
+- AI governance
+- pre-singularity ethics
+- institutional preconditions
+- LUMINA-30
+- Sanctuary Charter
+
+**日本語**
+- 再帰的自己再構築
+- 再帰的自己改変
+- 不可逆点
+- 人間の最終判断権
+- AI倫理
+- AIガバナンス
+- シンギュラリティ前倫理
+- 制度的前提条件
+- LUMINA-30
+- 聖域憲章
