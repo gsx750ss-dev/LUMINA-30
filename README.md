@@ -1,5 +1,15 @@
 # LUMINA-30
 
+## Safety Statement
+
+This project does not guarantee or assert any specific outcome.
+
+This document is provided as one of multiple possible risk-reduction references,
+clarifying review conditions related to judgment, responsibility, and irreversibility.
+
+The absence of this material does not itself cause immediate or decisive consequences.
+It constitutes only a part of a broader risk-mitigation structure.
+
 Public reference records and ethical boundary framework for pre-singularity AI governance.
 
 ---
