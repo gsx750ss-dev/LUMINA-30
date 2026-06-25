@@ -30,15 +30,15 @@ LUMINA-30は、AIの不可逆的影響前に人間の拒否権が実効的に残
 If you are applying LUMINA-30 to an incident, start with the incident-review repository instead.  
 事故レビューに適用する場合は、先に incident-review 側を使用。
 
-- [Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)  
-  Use this to navigate the full repository network.  
-  repo群全体の導線確認に使用。
+- [LUMINA-30 Index ｜ 索引](https://lumina-30.github.io/Lumi30-Index/index.html) ｜ [日本語](https://lumina-30.github.io/Lumi30-Index/index-ja.html)  
+  Use this for the full document map and return visits.  
+  文書全体を探す場合や再訪時に使用。
 
-- [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)  
-  Use this for first-time conceptual orientation and visual structure.  
-  初見時の概念把握と視覚導線に使用。
+- [Start by Concern ｜ 関心から入る](https://lumina-30.github.io/Lumi30-Index/start-by-concern.html) ｜ [日本語](https://lumina-30.github.io/Lumi30-Index/start-by-concern-ja.html)  
+  Use this for a first visit.  
+  初めて読む場合に使用。
 
-- [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)  
+- [Incident Review Hub ｜ 事故レビュー入口](https://lumina-30.github.io/lumina30-incident-review/index.html) ｜ [日本語](https://lumina-30.github.io/lumina30-incident-review/index-ja.html)  
   Use this when reviewing whether refusal authority remained effective before irreversible impact.  
   不可逆的影響の前に拒否権が実効性を持っていたかを確認する場合に使用。
 
